@@ -28,7 +28,7 @@ const AppSidebar: React.FC = () => {
             UP Maternal<br />Mortality Agent
           </div>
           <div className="text-[10px] text-muted-foreground mt-0.5 leading-tight">
-            Health Dept. Monitor
+            UPSTC Maternal Mortality Newspaper Monitor
           </div>
         </div>
       </div>
