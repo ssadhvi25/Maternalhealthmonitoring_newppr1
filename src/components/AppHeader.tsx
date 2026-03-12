@@ -34,7 +34,7 @@ const AppHeader: React.FC = () => {
       </div>
       <div className="flex items-center gap-2">
         <span className="text-xs text-muted-foreground hidden sm:block">
-          Uttar Pradesh · Health Department
+          Uttar Pradesh State Transformation Commission
         </span>
         <div className="h-2 w-2 rounded-full bg-success animate-pulse" title="Agent active" />
       </div>
